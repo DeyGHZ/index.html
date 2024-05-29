@@ -1,0 +1,12 @@
+h1,p {
+    color: blueviolet;
+    border: 2px solid black;
+    border-width: 10px 20px 10px 20px;
+    list-style-type: square;
+    margin-left: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    background-color: burlywood;
+    font-size: 50px;
+    text-transform: capitalize;
+}
